@@ -1,0 +1,24 @@
+pertanyaan umum : 
+- membuat HMVC pada laravel seperti codeigniter 
+
+9. membuat seeder
+di laravel type saya tidak ada pilihan seeder
+
+8.model dan eloquen
+perintah make:model tidak ada pilihan migration
+(sudah otomatis terbuat migration saat membuat laravel)
+
+5. integrasi bootstrap
+tidak dijelaskan nilai dari asset(''), 
+tidak dijelaskan cara nge set nya 
+
+pada saat pengubahan index.blade.php , tidak ada yang diubah,
+hanya 'selecting' text 
+
+langkah2nya tidak lengkap, 
+untuk pemula/awam pasti sangat kesulitan dengan lompat2
+artinya yang diketik apa outputnya apa..
+
+2. konsep routing,
+tidak dijelaskan terlebih dahulu struktur folder
+cara penggunaan config , dll
